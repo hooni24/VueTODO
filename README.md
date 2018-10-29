@@ -1,6 +1,6 @@
 # vue-todo
 
-> A Vuejs project
+> Vue.js로 만든 TODO list
 
 ## Build Setup
 
